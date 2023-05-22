@@ -1,4 +1,5 @@
 import sys
+#https://www.text-image.com/convert/
 bitmap = '''
                                                                                                                                        .:~7!^^7B&&&&@###~
   .                                                                                                                           .^7JPB&@@@5JYG#5YG@@#B@B
